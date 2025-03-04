@@ -19,6 +19,24 @@ An advanced **Streamlit-based** web application designed to predict and analyze 
 - Enables selection of employees by department.
 - Provides real-time performance trends, comparisons, and insights.
 
+### 📊 Dataset Information
+
+This project uses the Employee Productivity and Satisfaction HR Data dataset from Kaggle:
+
+- **Source**: Kaggle - [Employee Productivity and Satisfaction HR Data](https://www.kaggle.com/datasets/adityaab1407/employee-productivity-and-satisfaction-hr-data)
+- **Attributes**:
+  - Name
+  - Age
+  - Gender
+  - Projects Completed
+  - Productivity(%)
+  - Satisfaction Rate(%)
+  - Feedback Score
+  - Department
+  - Position
+  - Joining Data
+  - Salary
+
 ## 📂 Project Structure
 ```
 📂 employee_performance_app
