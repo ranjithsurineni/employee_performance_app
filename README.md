@@ -45,7 +45,7 @@ An advanced **Streamlit-based** web application designed to predict and analyze 
 ## ⚙️ Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/employee_performance_app.git
+git clone https://github.com/ranjithsurineni/employee_performance_app.git
 cd employee_performance_app
 ```
 
@@ -76,6 +76,20 @@ streamlit run app/app.py
 4. **Commit changes** (`git commit -m "Added new feature"`).
 5. **Push to GitHub** (`git push origin feature-branch`).
 6. **Create a Pull Request**.
+
+---
+### 🖼️ Screenshots & Visualizations
+Here are some screenshots of the application in action:
+
+**🔍 Employee Performance Dashboard**
+![Screenshot (34)](https://github.com/user-attachments/assets/0b22c654-59b3-4570-ac17-757f7ad59b49)
+
+**📈 Performance v/s Department Average**
+![Screenshot (37)](https://github.com/user-attachments/assets/2d2ec0fc-18c9-4e52-abee-dc560c1401d9)
+
+**📈Predicted Performance Score, 👨‍💻Employee Details, 💰Salary Details**
+![Screenshot (38)](https://github.com/user-attachments/assets/a8bdda22-db3e-4a51-993f-327769715e52)
+
 
 ## 📜 License
 This project is licensed under the **MIT License**.
